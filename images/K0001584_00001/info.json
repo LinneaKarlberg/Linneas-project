@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 127,
+    "height" : 227
+  }, {
+    "width" : 254,
+    "height" : 454
+  }, {
+    "width" : 508,
+    "height" : 908
+  }, {
+    "width" : 1016,
+    "height" : 1815
+  }, {
+    "width" : 2032,
+    "height" : 3629
+  }, {
+    "width" : 4064,
+    "height" : 7257
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 4064,
+  "@id" : "https://LinneaKarlberg.github.io/Linneas-project/images/K0001584_00001",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 7257
+}
