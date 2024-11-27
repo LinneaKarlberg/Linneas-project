@@ -1,0 +1,75 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://LinneaKarlberg.github.io/Linneas-project/manifests/manifest3.json",
+  "@type" : "sc:Manifest",
+  "label" : "Maps of Västra Götaland",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Maps of Västra Götaland",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/publicdomain/mark/1.0/deed.en",
+  "attribution" : "The National Archives, Sweden - Public Domain Mark",
+  "sequences" : [ {
+    "@id" : "http://3f655cc3-e3bb-44fa-93bd-a66c515205e9",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://56ba358f-13f5-47cd-821b-24405c1e4d50",
+      "@type" : "sc:Canvas",
+      "label" : "No 13. Geographisk Charta öfwer Landswägarne igenom Elfsborgs Lähn och Dahl[...]",
+      "height" : 6674,
+      "width" : 8786,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://cfd2d889-187e-47ee-baad-1988b2eabd38",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://linneakarlberg.github.io/Linneas-project/images/K0036050_00001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://linneakarlberg.github.io/Linneas-project/images/K0036050_00001",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 6674,
+          "width" : 8786
+        },
+        "on" : "http://56ba358f-13f5-47cd-821b-24405c1e4d50"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://a902dbbe-6dbd-48c7-b7b0-23cd4371b863",
+      "@type" : "sc:Canvas",
+      "label" : "Västergötland och Dalsland, generalkartor. Concept til en General Carta öfver Wäster-Giötland, Dahls Land och Bohus Lähn.",
+      "height" : 11105,
+      "width" : 9640,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f6ee999d-2581-4366-97e9-9ba1e5d21c93",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://linneakarlberg.github.io/Linneas-project/images/K0002674_00001/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://linneakarlberg.github.io/Linneas-project/images/K0002674_00001",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 11105,
+          "width" : 9640
+        },
+        "on" : "http://a902dbbe-6dbd-48c7-b7b0-23cd4371b863"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
