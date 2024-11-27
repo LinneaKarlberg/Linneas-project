@@ -252,6 +252,87 @@
             ]
         },
         {
+            "id": "https://LinneaKarlberg.github.io/Linneas-project/images/K0036050_00001/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "K0036050_00001"
+                ]
+            },
+            "height": 6674,
+            "width": 8786,
+            "items": [
+                {
+                    "id": "https://LinneaKarlberg.github.io/Linneas-project/images/K0036050_00001/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://LinneaKarlberg.github.io/Linneas-project/images/K0036050_00001/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://LinneaKarlberg.github.io/Linneas-project/images/K0036050_00001/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 275,
+                                                "height": 209
+                                            },
+                                            {
+                                                "width": 550,
+                                                "height": 418
+                                            },
+                                            {
+                                                "width": 1099,
+                                                "height": 835
+                                            },
+                                            {
+                                                "width": 2197,
+                                                "height": 1669
+                                            },
+                                            {
+                                                "width": 4393,
+                                                "height": 3337
+                                            },
+                                            {
+                                                "width": 8786,
+                                                "height": 6674
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 8786,
+                                        "@id": "https://LinneaKarlberg.github.io/Linneas-project/images/K0036050_00001",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 6674,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://LinneaKarlberg.github.io/Linneas-project/images/K0036050_00001/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://LinneaKarlberg.github.io/Linneas-project/images/R0001381_00006/canvas/",
             "type": "Canvas",
             "label": {
