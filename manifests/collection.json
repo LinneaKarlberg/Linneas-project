@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://LinneaKarlberg.github.io/Linneas-project/manifests/manifest.json",
     "label" : "Linneas IIIF-workshop manifest"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://LinneaKarlberg.github.io/Linneas-project/manifests/manifest3.json",
+    "label" : "Maps of Västra Götaland"
   } ]
 }
