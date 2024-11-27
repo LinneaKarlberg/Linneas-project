@@ -3,6 +3,11 @@
   "@id" : "https://LinneaKarlberg.github.io/Linneas-project/manifests/manifest.json",
   "@type" : "sc:Manifest",
   "label" : "Linneas IIIF-workshop manifest",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/169977567/02c756af5748d7791df0410af8e66f1b/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "A manifest made at the IIIF workshop in november 2024.",
@@ -46,6 +51,11 @@
           "width" : 6994
         },
         "on" : "http://00cbf16b-eeee-4ce6-bce8-3a004dc66197"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://linneakarlberg.github.io/Linneas-project/annotations/e9353f21c44deeb665bf38b5708cfd61.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Linneas annotations"
       } ],
       "related" : ""
     }, {
