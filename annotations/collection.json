@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://LinneaKarlberg.github.io/Linneas-project/annotations/e9353f21c44deeb665bf38b5708cfd61.json" ],
+  "@id" : "https://LinneaKarlberg.github.io/Linneas-project/annotations/collection.json",
+  "label" : "All annotations loaded in LinneaKarlberg/Linneas-project project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
