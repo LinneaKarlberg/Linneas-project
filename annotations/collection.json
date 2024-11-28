@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://LinneaKarlberg.github.io/Linneas-project/annotations/e9353f21c44deeb665bf38b5708cfd61.json", "https://LinneaKarlberg.github.io/Linneas-project/annotations/3e5be82a1c4b0b54ed17851ddab9f834.json" ],
+  "otherContent" : [ "https://LinneaKarlberg.github.io/Linneas-project/annotations/e9353f21c44deeb665bf38b5708cfd61.json", "https://LinneaKarlberg.github.io/Linneas-project/annotations/3e5be82a1c4b0b54ed17851ddab9f834.json", "https://LinneaKarlberg.github.io/Linneas-project/annotations/fbff3091581bd69f84f88dca98c8f2a6.json" ],
   "@id" : "https://LinneaKarlberg.github.io/Linneas-project/annotations/collection.json",
   "label" : "All annotations loaded in LinneaKarlberg/Linneas-project project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
