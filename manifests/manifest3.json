@@ -3,6 +3,11 @@
   "@id" : "https://LinneaKarlberg.github.io/Linneas-project/manifests/manifest3.json",
   "@type" : "sc:Manifest",
   "label" : "Maps of Västra Götaland",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/169977567/1a4197c7aaee9c7beefb59034c97e991/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Maps of Västra Götaland",
@@ -41,6 +46,11 @@
           "width" : 8786
         },
         "on" : "http://56ba358f-13f5-47cd-821b-24405c1e4d50"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://linneakarlberg.github.io/Linneas-project/annotations/3e5be82a1c4b0b54ed17851ddab9f834.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "My fantastic annotations"
       } ],
       "related" : ""
     }, {
