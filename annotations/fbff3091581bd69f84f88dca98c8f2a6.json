@@ -1,0 +1,336 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://www.wikidata.org/wiki/Q1754560\" target=\"_blank\" rel=\"noopener\">Gr&auml;fsn&auml;s on Wikidata",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://www.wikidata.org/wiki/Q1754560\" target=\"_blank\" rel=\"noopener\">Gr&auml;fsn&auml;s on Wikidata</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/169977567",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-11-27T15:37:39",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1732721859140",
+    "dcterms:modified" : "2024-11-27T15:37:39",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LinneaKarlberg.github.io/Linneas-project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2926,3472,13,20"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2932.16025,3492.02619c0,-4.36364 2.18182,-8.72727 6.54545,-13.09091c0,-3.61495 -2.9305,-6.54545 -6.54545,-6.54545c-3.61495,0 -6.54545,2.9305 -6.54545,6.54545c4.36364,4.36364 6.54545,8.72727 6.54545,13.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_94c36770-6718-41cd-abd6-8647988937e3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://56ba358f-13f5-47cd-821b-24405c1e4d50"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://www.wikidata.org/wiki/Q2420672\" target=\"_blank\" rel=\"noopener\">Sollebrunn on Wikidata",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://www.wikidata.org/wiki/Q2420672\" target=\"_blank\" rel=\"noopener\">Sollebrunn on Wikidata</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/169977567",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-11-27T15:39:36",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1732721976657",
+    "dcterms:modified" : "2024-11-27T15:39:36",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LinneaKarlberg.github.io/Linneas-project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3044,3449,9,14"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3048.9534,3463.01799c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_c9b803e8-a6eb-4fbb-9681-8cd1224b48f4\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://56ba358f-13f5-47cd-821b-24405c1e4d50"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://www.wikidata.org/wiki/Q54759\" target=\"_blank\" rel=\"noopener\">V&auml;nersborg on Wikidata",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://www.wikidata.org/wiki/Q54759\" target=\"_blank\" rel=\"noopener\">V&auml;nersborg on Wikidata</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/169977567",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-11-28T08:51:24",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1732783884471",
+    "dcterms:modified" : "2024-11-28T08:51:24",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LinneaKarlberg.github.io/Linneas-project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3459,2724,11,17"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3464.25288,2740.71302c0,-3.71628 1.85814,-7.43256 5.57442,-11.14885c0,-3.07867 -2.49575,-5.57442 -5.57442,-5.57442c-3.07867,0 -5.57442,2.49575 -5.57442,5.57442c3.71628,3.71628 5.57442,7.43256 5.57442,11.14885z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_0c37925a-d5c2-4b00-993c-8cd7b879c939\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://56ba358f-13f5-47cd-821b-24405c1e4d50"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://www.wikidata.org/wiki/Q1297746\" target=\"_blank\" rel=\"noopener\">Svenljunga on Wikidata",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://www.wikidata.org/wiki/Q1297746\" target=\"_blank\" rel=\"noopener\">Svenljunga on Wikidata</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/169977567",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-11-28T08:53:06",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1732783986302",
+    "dcterms:modified" : "2024-11-28T08:53:06",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LinneaKarlberg.github.io/Linneas-project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1969,5382,19,29"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1978.60886,5411.02363c0,-6.42174 3.21087,-12.84347 9.6326,-19.26521c0,-5.31994 -4.31266,-9.6326 -9.6326,-9.6326c-5.31994,0 -9.6326,4.31266 -9.6326,9.6326c6.42174,6.42174 9.6326,12.84347 9.6326,19.26521z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_70010937-8b43-474c-9e29-d566e07044a3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://56ba358f-13f5-47cd-821b-24405c1e4d50"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://www.wikidata.org/wiki/Q11885056\" target=\"_blank\" rel=\"noopener\">N&ouml;dinge on Wikidata",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://www.wikidata.org/wiki/Q11885056\" target=\"_blank\" rel=\"noopener\">N&ouml;dinge on Wikidata</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/169977567",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-11-28T08:47:11",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1732783631289",
+    "dcterms:modified" : "2024-11-28T08:47:11",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LinneaKarlberg.github.io/Linneas-project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2033,3158,19,29"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2043.0453,3186.51328c0,-6.42174 3.21087,-12.84347 9.6326,-19.26521c0,-5.31994 -4.31266,-9.6326 -9.6326,-9.6326c-5.31994,0 -9.6326,4.31266 -9.6326,9.6326c6.42174,6.42174 9.6326,12.84347 9.6326,19.26521z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_e2bc9b5b-6ab3-4f49-aa79-2dfc16fedb3a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://56ba358f-13f5-47cd-821b-24405c1e4d50"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://www.wikidata.org/wiki/Q54743\" target=\"_blank\" rel=\"noopener\">Alings&aring;s on Wikidata",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://www.wikidata.org/wiki/Q54743\" target=\"_blank\" rel=\"noopener\">Alings&aring;s on Wikidata</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/169977567",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-11-27T15:36:41",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1732721801961",
+    "dcterms:modified" : "2024-11-27T15:36:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LinneaKarlberg.github.io/Linneas-project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2572,3903,13,20"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2578.7057,3922.7171c0,-4.36364 2.18182,-8.72727 6.54545,-13.09091c0,-3.61495 -2.9305,-6.54545 -6.54545,-6.54545c-3.61495,0 -6.54545,2.9305 -6.54545,6.54545c4.36364,4.36364 6.54545,8.72727 6.54545,13.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_2a450e73-ab78-4ad2-bf06-e464c2b2924a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://56ba358f-13f5-47cd-821b-24405c1e4d50"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://www.wikidata.org/wiki/Q2328207\" target=\"_blank\" rel=\"noopener\">B&auml;linge on Wikidata",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://www.wikidata.org/wiki/Q2328207\" target=\"_blank\" rel=\"noopener\">B&auml;linge on Wikidata</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/169977567",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-11-27T15:37:11",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1732721831160",
+    "dcterms:modified" : "2024-11-27T15:37:11",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LinneaKarlberg.github.io/Linneas-project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2703,3959,13,20"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2709.61479,3979.00801c0,-4.36364 2.18182,-8.72727 6.54545,-13.09091c0,-3.61495 -2.9305,-6.54545 -6.54545,-6.54545c-3.61495,0 -6.54545,2.9305 -6.54545,6.54545c4.36364,4.36364 6.54545,8.72727 6.54545,13.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_adfb4584-3b30-4107-8f27-ed35f6e978e3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://56ba358f-13f5-47cd-821b-24405c1e4d50"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://www.wikidata.org/wiki/Q988275\" target=\"_blank\" rel=\"noopener\">Lerum on Wikidata",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://www.wikidata.org/wiki/Q988275\" target=\"_blank\" rel=\"noopener\">Lerum on Wikidata</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/169977567",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-11-27T15:38:23",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1732721903048",
+    "dcterms:modified" : "2024-11-27T15:38:23",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LinneaKarlberg.github.io/Linneas-project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2052,3760,9,14"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2056.48607,3773.60728c0,-3.0303 1.51515,-6.06061 4.54545,-9.09091c0,-2.51039 -2.03507,-4.54545 -4.54545,-4.54545c-2.51039,0 -4.54545,2.03507 -4.54545,4.54545c3.0303,3.0303 4.54545,6.06061 4.54545,9.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_1942374c-b13f-47e0-a46c-3ae062e4af98\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://56ba358f-13f5-47cd-821b-24405c1e4d50"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://www.wikidata.org/wiki/Q1109681\" target=\"_blank\" rel=\"noopener\">Alvhem on Wikidata",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://www.wikidata.org/wiki/Q1109681\" target=\"_blank\" rel=\"noopener\">Alvhem on Wikidata</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/169977567",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-11-28T08:48:52",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1732783732745",
+    "dcterms:modified" : "2024-11-28T08:48:52",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LinneaKarlberg.github.io/Linneas-project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2441,3076,11,17"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2446.55675,3092.74362c0,-3.71628 1.85814,-7.43256 5.57442,-11.14885c0,-3.07867 -2.49575,-5.57442 -5.57442,-5.57442c-3.07867,0 -5.57442,2.49575 -5.57442,5.57442c3.71628,3.71628 5.57442,7.43256 5.57442,11.14885z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_0183e76d-5718-49a5-8d91-ae914893fcff\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://56ba358f-13f5-47cd-821b-24405c1e4d50"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "<a href=\"https://www.wikidata.org/wiki/Q667818\" target=\"_blank\" rel=\"noopener\">Kinna on Wikidata",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><a href=\"https://www.wikidata.org/wiki/Q667818\" target=\"_blank\" rel=\"noopener\">Kinna on Wikidata</a></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/169977567",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2024-11-28T08:54:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1732784068771",
+    "dcterms:modified" : "2024-11-28T08:54:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://LinneaKarlberg.github.io/Linneas-project/manifests/manifest3.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1640,4746,19,29"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1649.17384,4775.27184c0,-6.42174 3.21087,-12.84347 9.6326,-19.26521c0,-5.31994 -4.31266,-9.6326 -9.6326,-9.6326c-5.31994,0 -9.6326,4.31266 -9.6326,9.6326c6.42174,6.42174 9.6326,12.84347 9.6326,19.26521z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_83bdbe31-6adb-4986-8b0c-f5480dce0296\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://56ba358f-13f5-47cd-821b-24405c1e4d50"
+    } ]
+  } ],
+  "@id" : "https://LinneaKarlberg.github.io/Linneas-project/annotations/fbff3091581bd69f84f88dca98c8f2a6.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
