@@ -48,7 +48,7 @@
         "on" : "http://56ba358f-13f5-47cd-821b-24405c1e4d50"
       } ],
       "otherContent" : [ {
-        "@id" : "https://linneakarlberg.github.io/Linneas-project/annotations/3e5be82a1c4b0b54ed17851ddab9f834.json",
+        "@id" : "https://linneakarlberg.github.io/Linneas-project/annotations/fbff3091581bd69f84f88dca98c8f2a6.json",
         "@type" : "sc:AnnotationList",
         "label" : "My fantastic annotations"
       } ],
